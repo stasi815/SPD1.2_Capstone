@@ -1,0 +1,64 @@
+.body {
+    background-color: rgb(66, 60, 70);
+}
+.jumbotron {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("flying_bats.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.display-4 {
+    text-shadow: 2px 2px #ff0000;
+    color: white;
+
+}
+.lead {
+    color: white;
+}
+
+.index-intro {
+    background-color: rgb(48, 41, 53);
+}
+
+.index-text {
+    color: white;
+}
+
+.index-title {
+    color: white;
+}
+
+.vamp-woman {
+    height: 273.5px;
+    width: 360px;
+}
+
+.carousel {
+    margin-top: 0;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.d-block {
+    position: absolute;
+    bottom: 0;
+}
+
+.carousel-caption {
+    color: white;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+    opacity: 1;
+    justify-content: center;
+}
+
+.testemonials {
+    background-color: rgb(48, 41, 53);
+    color: white;
+    padding: 1px;
+}
