@@ -96,3 +96,9 @@
     color: white;
     padding: 1px;
 }
+
+.blockquote {
+    color: white;
+    background-color: rgb(48, 41, 53);
+
+}
